@@ -1,0 +1,43 @@
+{
+  "name": "pitch-dark-theme",
+  "displayName": "Pitch Dark",
+  "description": "A pure black theme with cyan accents and a matching terminal palette. Easy on the eyes on OLED and dark rooms.",
+  "version": "1.0.0",
+  "publisher": "siddhantmedar",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "black",
+    "pure black",
+    "oled",
+    "amoled",
+    "cyan",
+    "theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siddhantmedar/pitch-dark-vscode-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pitch Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pitch-dark-color-theme.json"
+      }
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/siddhantmedar/pitch-dark-vscode-theme/issues"
+  },
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  }
+}
