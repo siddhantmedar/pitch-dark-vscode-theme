@@ -11,13 +11,15 @@ A pure black VS Code theme with cyan accents.
 
 ## Install
 
-Search **Pitch Dark** in the Extensions view, or install the `.vsix` from the Releases page:
+Search **Pitch Dark** in the Extensions view (`Cmd+Shift+X`), or run:
 
 ```bash
-code --install-extension pitch-dark-theme-1.1.0.vsix
+code --install-extension siddhantmedar.pitch-dark-theme
 ```
 
 Then pick it with `Cmd+K Cmd+T` (`Ctrl+K Ctrl+T` on Windows/Linux) → **Pitch Dark**.
+
+You can also download the `.vsix` from the [Releases page](https://github.com/siddhantmedar/pitch-dark-vscode-theme/releases).
 
 ## Recommended extras
 
@@ -26,9 +28,9 @@ code --install-extension pkief.material-icon-theme
 brew install --cask font-jetbrains-mono-nerd-font
 ```
 
-See `recommended-settings.json` for font and editor settings.
+See [`recommended-settings.json`](https://github.com/siddhantmedar/pitch-dark-vscode-theme/blob/main/recommended-settings.json) for font and editor settings.
 
 ## Credits
 
 Syntax colors use the [Catppuccin](https://github.com/catppuccin/catppuccin) Mocha palette (MIT).
-Some UI colors are based on [GitHub VS Code Theme](https://github.com/primer/github-vscode-theme) (MIT). Its license is in `GITHUB-THEME-LICENSE.txt`.
+Some UI colors are based on [GitHub VS Code Theme](https://github.com/primer/github-vscode-theme) (MIT). Its license is in [`GITHUB-THEME-LICENSE.txt`](https://github.com/siddhantmedar/pitch-dark-vscode-theme/blob/main/GITHUB-THEME-LICENSE.txt).

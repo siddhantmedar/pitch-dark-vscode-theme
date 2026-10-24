@@ -2,7 +2,7 @@
   "name": "pitch-dark-theme",
   "displayName": "Pitch Dark",
   "description": "A pure black theme with soft pastel syntax colors and cyan accents. Easy on the eyes on OLED screens and in dark rooms.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "publisher": "siddhantmedar",
   "license": "MIT",
   "engines": {
