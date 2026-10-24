@@ -6,14 +6,15 @@ A pure black VS Code theme with cyan accents.
 - Subtle `#2a2a2a` dividers
 - Cyan `#00c2ff` cursor, selection and accents
 - A soft, high-contrast 16-color palette for the integrated terminal
-- Syntax colors from GitHub Dark Default
+- Soft pastel syntax colors (Catppuccin Mocha palette)
+- Italic comments, parameters and `self`
 
 ## Install
 
 Search **Pitch Dark** in the Extensions view, or install the `.vsix` from the Releases page:
 
 ```bash
-code --install-extension pitch-dark-theme-1.0.0.vsix
+code --install-extension pitch-dark-theme-1.1.0.vsix
 ```
 
 Then pick it with `Cmd+K Cmd+T` (`Ctrl+K Ctrl+T` on Windows/Linux) → **Pitch Dark**.
@@ -29,4 +30,5 @@ See `recommended-settings.json` for font and editor settings.
 
 ## Credits
 
-Syntax token colors come from [GitHub VS Code Theme](https://github.com/primer/github-vscode-theme) (MIT). Its license is in `GITHUB-THEME-LICENSE.txt`.
+Syntax colors use the [Catppuccin](https://github.com/catppuccin/catppuccin) Mocha palette (MIT).
+Some UI colors are based on [GitHub VS Code Theme](https://github.com/primer/github-vscode-theme) (MIT). Its license is in `GITHUB-THEME-LICENSE.txt`.
