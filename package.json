@@ -39,5 +39,6 @@
   "galleryBanner": {
     "color": "#000000",
     "theme": "dark"
-  }
+  },
+  "icon": "icon.png"
 }
