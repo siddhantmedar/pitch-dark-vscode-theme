@@ -30,6 +30,10 @@ brew install --cask font-jetbrains-mono-nerd-font
 
 See [`recommended-settings.json`](https://github.com/siddhantmedar/pitch-dark-vscode-theme/blob/main/recommended-settings.json) for font and editor settings.
 
+## Terminal theme
+
+Want the same look in Ghostty or cmux? See [`extras/ghostty`](https://github.com/siddhantmedar/pitch-dark-vscode-theme/tree/main/extras/ghostty).
+
 ## Credits
 
 Syntax colors use the [Catppuccin](https://github.com/catppuccin/catppuccin) Mocha palette (MIT).
