@@ -32,7 +32,10 @@ See [`recommended-settings.json`](https://github.com/siddhantmedar/pitch-dark-vs
 
 ## Terminal theme
 
-Want the same look in Ghostty or cmux? See [`extras/ghostty`](https://github.com/siddhantmedar/pitch-dark-vscode-theme/tree/main/extras/ghostty).
+Want the same look in your terminal?
+
+- Ghostty or cmux: [`extras/ghostty`](https://github.com/siddhantmedar/pitch-dark-vscode-theme/tree/main/extras/ghostty)
+- macOS Terminal: [`extras/terminal-app`](https://github.com/siddhantmedar/pitch-dark-vscode-theme/tree/main/extras/terminal-app)
 
 ## Credits
 
