@@ -1,8 +1,8 @@
 # Pitch Dark
 
-A pure black VS Code theme with cyan accents.
+A near-black VS Code theme with cyan accents.
 
-- `#000000` backgrounds across the editor, sidebar, tabs, panels and terminal
+- Near-black `#0d0d0d` backgrounds across the editor, sidebar, tabs, panels and terminal (pure `#000000` makes text smear while scrolling on LCD monitors)
 - Subtle `#2a2a2a` dividers
 - Cyan `#00c2ff` cursor, selection and accents
 - A soft, high-contrast 16-color palette for the integrated terminal
