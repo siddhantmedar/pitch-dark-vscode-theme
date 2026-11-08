@@ -1,6 +1,6 @@
 # Pitch Dark for Ghostty (and cmux)
 
-The same pure black, cyan-accent palette as the VS Code theme, for [Ghostty](https://ghostty.org). cmux reads Ghostty's config, so it works there too.
+The same near-black, cyan-accent palette as the VS Code theme, for [Ghostty](https://ghostty.org). cmux reads Ghostty's config, so it works there too.
 
 ## Install
 

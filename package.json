@@ -14,7 +14,7 @@
   "keywords": [
     "dark",
     "black",
-    "pure black",
+    "near black",
     "oled",
     "amoled",
     "pastel",
@@ -38,7 +38,7 @@
     "url": "https://github.com/siddhantmedar/pitch-dark-vscode-theme/issues"
   },
   "galleryBanner": {
-    "color": "#000000",
+    "color": "#080808",
     "theme": "dark"
   },
   "icon": "icon.png"

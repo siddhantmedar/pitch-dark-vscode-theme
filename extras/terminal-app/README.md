@@ -1,6 +1,6 @@
 # Pitch Dark for macOS Terminal
 
-The same pure black, cyan-accent palette as the VS Code theme, as a profile for the built-in macOS Terminal app.
+The same near-black, cyan-accent palette as the VS Code theme, as a profile for the built-in macOS Terminal app.
 
 ## Install
 

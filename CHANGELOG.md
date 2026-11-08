@@ -2,7 +2,7 @@
 
 ## 1.2.0
 
-- Backgrounds moved from pure black #000000 to near-black #0d0d0d. Pure black made text smear and look faded while scrolling on LCD monitors.
+- Backgrounds moved from pure black #000000 to near-black #080808. Pure black made text smear and look faded while scrolling on LCD monitors.
 - Brighter inline code in Markdown preview; visible table and blockquote lines
 
 ## 1.1.1

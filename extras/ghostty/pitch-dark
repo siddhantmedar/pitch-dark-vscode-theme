@@ -1,5 +1,5 @@
-# Pitch Dark: pure black terminal theme with cyan accents (matches the Pitch Dark VS Code theme)
-background = #000000
+# Pitch Dark: near-black terminal theme with cyan accents (matches the Pitch Dark VS Code theme)
+background = #080808
 foreground = #ffffff
 cursor-color = #00c2ff
 cursor-text = #000000
